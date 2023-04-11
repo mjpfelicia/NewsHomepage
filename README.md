@@ -6,11 +6,10 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge.
+Obrigado por verificar este desafio de codificação de front-end.
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+[Frontend Mentor](https://www.frontendmentor.io) 
 
-**To do this challenge, you need a good understanding of HTML and CSS, and basic JavaScript.**
 
 ## Indice
 
@@ -28,7 +27,7 @@ Thanks for checking out this front-end coding challenge.
 
  ## Links usados
 -  https://www.youtube.com/watch?v=x-4z_u8LcGc
-- https://developer.mozilla.org/en-US/docs/Learn/CSS.
+-  https://developer.mozilla.org/en-US/docs/Learn/CSS.
 
 
 ## Tecnologias usandas:
